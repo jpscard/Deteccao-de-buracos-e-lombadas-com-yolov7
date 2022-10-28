@@ -12,3 +12,6 @@ DANIEL DANTAS DO AMARAL RAMOS | Member
 JOÃO PAULO DA SILVA CARDOSO | Manager
 KAIO HENRIQUE SINIMBU FORTE | Member
 MANOEL FREITAS CAMPOS NETO | Member
+
+
+Dataset: https://universe.roboflow.com/datasetequipex/dataset_buraco_e_lombada/dataset/1
