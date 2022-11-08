@@ -1,8 +1,8 @@
-# Detecção de buracos e lombadas com yolov7
+# Potholes and Speed Bump Detection using yolov7
 
-### Trabalho de Deep Learning- UFPA
+### Deep Learning- UFPA
 
-  Team X | Cargo
+  Team X | Post
 ---------|---------
 ANDRE DE JESUS ARAUJO RAMOS | Member
 CAIO MATEUS MACHADO CARDOSO | Member
